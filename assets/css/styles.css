@@ -1,0 +1,27 @@
+header h1 {
+    color: black;
+    text-align: center;
+    padding-top: 5%;
+}
+
+header p{
+    color: blueviolet;
+    text-align: center;
+}
+
+nav h2{
+    color: black;
+    text-align: center;
+
+}
+nav ul{
+    color: blueviolet;
+}
+
+.text3 h2{
+    color: black;
+    text-align: center;
+}
+.navani  {
+    text-align: center;
+}
