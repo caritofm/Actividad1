@@ -5,6 +5,10 @@
     outline: none;
 }
 
+p{
+    padding-top: 3%;
+    text-align: center;
+}
 
 body{
     font-family: 'Times New Roman', Times, serif;
@@ -30,8 +34,14 @@ h2{
 }
 
 h1{
-    padding-top: 10%;
-    padding-bottom: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 40%;
+    padding-right: 40%;
+    background-color: purple;
+    color: aliceblue;
+    border-radius: 5cm;
+    text-align: center;
 }
 
 
