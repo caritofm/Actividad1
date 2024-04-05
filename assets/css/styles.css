@@ -1,27 +1,42 @@
 header h1 {
     color: black;
     text-align: center;
-    padding-top: 5%;
+    padding-top: 10%;
+    
 }
 
 header p{
-    color: blueviolet;
+    color: black;
     text-align: center;
 }
 
 nav h2{
     color: black;
     text-align: center;
+    padding: 2%;
+    margin: 2%;
 
 }
+
 nav ul{
-    color: blueviolet;
+    color: #000000;
+    margin-right: 210px;
+    margin-left: 210px;
+    
 }
 
 .text3 h2{
     color: black;
     text-align: center;
 }
+
+
 .navani  {
     text-align: center;
+    padding: 2%;
 }
+
+.navpe {
+    text-align: center;
+}
+
